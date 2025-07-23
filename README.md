@@ -14,7 +14,7 @@ Second, I filled the buns recipe page with content. In the buns.html file, I use
 - 'ul' and 'ol' for the ingredient list and the cooking steps respectively.
 
 The same was done with the scrambled_eggs.html and the
-creamy_pasta.html files 
+creamy_pasta.html files.
 
 (image source for the scrambled eggs recipe: <a href="https://unsplash.com/@imad8321?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Imad 786</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-bowl-of-food-on-a-table-6DXfs2sl5pQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
 
